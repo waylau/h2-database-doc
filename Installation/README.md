@@ -30,14 +30,14 @@
 Directory |	Contents
 ---- | ----
 bin	| JAR 和批处理文件
-docs | 文档	Documentation
+docs | 文档
 docs/html |	HTML 页面
 docs/javadoc | Javadoc 文件
 ext	| 外部依赖 (构建时下载的)
 service	| 运行数据库作为 Windows 的 Service
 src	| 源文件
 src/docsrc	| 文档源文件
-src/installer |	Installer, shell, and release build script
+src/installer |	安装程序,shell和发布的构建脚本
 src/main | 数据库引擎源代码
 src/test | 测试源代码
 src/tools | 工作和数据库适配器源代码
